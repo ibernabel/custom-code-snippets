@@ -3,8 +3,8 @@
  * Plugin Name: Custom Code Snippets
  * Plugin URI: https://github.com/ibernabel/custom-code-snippets
  * Description: A well-structured plugin for managing custom code snippets and functionality enhancements.
- * Version: 1.0.0
- * Author: Isaac Bernabel
+ * Version: 1.0.1
+ * Author: Idequel Bernabel
  * Author URI: https://github.com/ibernabel
  * License: MIT
  * Text Domain: custom-code-snippets
